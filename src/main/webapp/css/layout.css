@@ -55,6 +55,10 @@ body {
     margin-left: 170px;
 }
 
+.msgerro {
+    background-color: yellow;
+}
+
 .right_content {
     background-color: #dddddd;
     padding: 5px;
